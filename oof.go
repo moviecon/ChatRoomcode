@@ -13,7 +13,7 @@ import (
 
 const (
 	scaledroneID     = "Tf9ESOqwTqdglMEe"     // 👈 PS! Replace this with your own channel ID 🚨
-	scaledroneSecret = "YOUR_SCALEDRONE_SECRET" // 👈 PS! Replace this with your own channel secret 🚨
+	scaledroneSecret = "FLHb8E3iQItp2qb2n3VGTdW9LwENgbnc" // 👈 PS! Replace this with your own channel secret 🚨
 	port             = ":8080"
 )
 
